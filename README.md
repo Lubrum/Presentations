@@ -2,7 +2,7 @@
 
 # Summary
 
-This is the repository for all presentations made since undergraduation. Some of them were during my graduation in [Applied Computing](http://cursos.unipampa.edu.br/cursos/ppgcap/) in [Federal University of Pampa](http://novoportal.unipampa.edu.br/novoportal/), in partnership with [Brazilian Agricultural Research Colorporation](https://www.embrapa.br/en/international), also known as Embrapa.
+This is the repository for all presentations made since undergraduation. Some of them were during my graduation in [Applied Computing](http://cursos.unipampa.edu.br/cursos/ppgcap/) in [Federal University of Pampa](http://novoportal.unipampa.edu.br/novoportal/), in partnership with [Brazilian Agricultural Research Corporation](https://www.embrapa.br/en/international), also known as Embrapa.
 
 # Motivation
 
