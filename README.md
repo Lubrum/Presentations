@@ -1,3 +1,5 @@
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Lubrum/Presentations) ![GitHub last commit](https://img.shields.io/github/last-commit/Lubrum/Presentations) ![GitHub repo size](https://img.shields.io/github/repo-size/Lubrum/Presentations)
+
 # Presentations
 
 # Summary
